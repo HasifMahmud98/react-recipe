@@ -20,6 +20,13 @@ code {
     monospace;
 }
 
+h5 {
+  font-size: 0.8rem;
+  color: rgb(56, 56, 56);
+  line-height: 1.5rem;
+  margin: 1.5rem 0rem;
+}
+
 h4 {
   font-size: 1rem;
   color: rgb(56, 56, 56);
