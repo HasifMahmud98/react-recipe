@@ -56,6 +56,18 @@ const SLink = styled(NavLink)`
         font-size: 1.5rem;
     }
 
+    :hover {
+        background: linear-gradient(to right, #f27121, #e94057);
+
+        svg {
+            color: #fff;
+        }
+
+        h4 {
+            color: #fff;
+        }
+    }
+
     &.active {
         background: linear-gradient(to right, #f27121, #e94057);
 
